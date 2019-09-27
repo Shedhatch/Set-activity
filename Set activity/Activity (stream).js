@@ -1,11 +1,4 @@
 
-/*
-*@file owner Thomas Weland
-*@type discord.js
-*@npm (nothing)
-
-
-*/
 
 
 bot.on('ready', () => {
