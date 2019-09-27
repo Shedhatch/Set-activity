@@ -1,12 +1,4 @@
-    /*
-*@file owner Thomas Weland
-*@type discord.js
-*@npm (nothing)
 
-
-*/
-    
-    // JOUEURS ENTRANTS
 bot.on('ready', () => {
   console.log("Activity OK")
   //CHANGE {type: 2} in 
