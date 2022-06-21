@@ -1,6 +1,6 @@
 # Set activity
 Set activity will allow you to customize your bot status and activity.
-This file Is split between three files. 
+This folder Is split between three files. 
 Two are based on activities customization and one Is based on status customization.
 
 ![alt text](https://i.imgur.com/5i0TbsS_d.webp?maxwidth=760&fidelity=grand)
